@@ -1,0 +1,7 @@
+{
+	"Export Chakra Box": {
+		"prefix": "eckrb",
+		"description": "Exports a default funciton with Chakra Box as a container",
+		"body": ["export default () => {", "  <Box>$1</Box>", "}"]
+	}
+}

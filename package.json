@@ -1,0 +1,20 @@
+{
+    "name": "chakra-ui-snippets",
+    "displayName": "Chakra UI Snippets",
+    "description": "Collection of snippets to help you build faster when working with Chakra UI React",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/box.json"
+            }
+        ]
+    }
+}
